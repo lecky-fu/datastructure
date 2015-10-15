@@ -1,0 +1,3 @@
+接口 		MyList中规定线性表所需的方法
+抽象类	MyAbstrctArrayList中定义接口中可以实现的方法
+具体类	MyArrayList中定义接口中每一个没有被实现的方法
