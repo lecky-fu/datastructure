@@ -249,5 +249,15 @@ public class BinaryTree<E extends Comparable<E>> implements Tree<E> {
 		}
 		return true;
 	}
+	@Override
+	public boolean isFullBinaryTree() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	@Override
+	public void levelorder() {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
